@@ -141,7 +141,7 @@ Esta organización permite a los revisores auditar tanto la lógica on‑chain c
 
 Para la comunicación y difusión del proyecto se utiliza la siguiente cuenta oficial de X (Twitter):
 
-- **Cuenta:** [`@BackendBen29000`](https://x.com/BackendBen29000)
+- **Cuenta:** [`@0xSonata`](https://x.com/0xSonata)
 
 Desde esta cuenta se comparten:
 
